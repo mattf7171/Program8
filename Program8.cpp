@@ -3,7 +3,7 @@ using namespace std;
 
 /*
  I think that staying with the door that you picked gives a
- higher probability of winning the game. 
+ higher probability of winning the game.
  */
 
 void simulateMontyHall(int num_trials) {
